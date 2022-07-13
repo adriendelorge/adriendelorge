@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrien Delorge</h1>
-<h3 align="center">Data Science aficionado and Le Wagon alumni</h3>
+<h3 align="center">Data Science Aficionado and Le Wagon Alumni</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
